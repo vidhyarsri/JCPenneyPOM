@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="JCPennyTest">
+
+<listeners>
+ <listener class-name = "com.jcpenny.util.Listener"/>
+ </listeners>
+ 
+	<test name="JCPennySmokeTest">
+	<classes>
+	  <class name="com.jcpenny.testcases.JcPennyTest" >
+		<methods>
+			<include name="verifyHomePageTitle"/>
+			<include name="verifyLogo"/>
+			<include name="verifyLogoFontSize"/>
+			<include name="verifyLogoFontFamily"/>
+			<include name="navigateToHomeElectronicsPage"/>
+		</methods>
+		</class>
+	</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+
+

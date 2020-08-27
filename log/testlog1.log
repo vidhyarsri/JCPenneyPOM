@@ -1,0 +1,45 @@
+2020-08-25 16:59:53,325 [main] INFO JCPenny Test - chrome browser is opened.
+2020-08-25 16:59:53,330 [main] INFO JCPenny Test - Maximize Browser
+2020-08-25 16:59:55,470 [main] INFO JCPenny Test - Apply "Pageload" and "Implicit wait"
+2020-08-25 16:59:55,488 [main] INFO JCPenny Test - Navigate to Url
+2020-08-25 16:59:57,801 [main] INFO JCPenny Test - *****Test methodverifyHomePageTitle has started
+2020-08-25 16:59:57,802 [main] INFO JCPenny Test - Validating HomePage Title
+2020-08-25 17:00:00,685 [main] INFO JCPenny Test - *****Test method verifyHomePageTitle has executed successfully
+2020-08-25 17:00:00,695 [main] INFO JCPenny Test - *****Test methodverifyLogo has started
+2020-08-25 17:00:00,695 [main] INFO JCPenny Test - Verifying if Logo is Displayed
+2020-08-25 17:00:00,921 [main] INFO JCPenny Test - *****Test method verifyLogo has executed successfully
+2020-08-25 17:00:00,929 [main] INFO JCPenny Test - *****Test methodverifyLogoColor has started
+2020-08-25 17:00:00,930 [main] INFO JCPenny Test - Validating Logo color
+2020-08-25 17:00:01,035 [main] INFO JCPenny Test - *****Test method verifyLogoColor has executed successfully
+2020-08-25 17:00:01,037 [main] INFO JCPenny Test - *****Test methodverifyLogoFontSize has started
+2020-08-25 17:00:01,038 [main] INFO JCPenny Test - Validating Logo font size 
+2020-08-25 17:00:01,069 [main] INFO JCPenny Test - *****Test method verifyLogoFontSize has executed successfully
+2020-08-25 17:00:01,072 [main] INFO JCPenny Test - *****Test methodverifyLogoFontFamily has started
+2020-08-25 17:00:01,072 [main] INFO JCPenny Test - Validating Logo fontFamily 
+2020-08-25 17:00:01,104 [main] INFO JCPenny Test - *****Test method verifyLogoFontFamily has executed successfully
+2020-08-25 17:00:01,108 [main] INFO JCPenny Test - *****Test methodnavigateToHomeElectronicsPage has started
+2020-08-25 17:00:01,111 [main] INFO JCPenny Test - Click "HomeElectronics" from dropdown options
+2020-08-25 17:00:03,222 [main] INFO JCPenny Test - Navigated to "HomeElectronics" page
+2020-08-25 17:00:03,222 [main] INFO JCPenny Test - Validating HomeElectronics page title
+2020-08-25 17:00:04,062 [main] INFO JCPenny Test - *****Test method navigateToHomeElectronicsPage has executed successfully
+2020-08-25 17:00:04,065 [main] INFO JCPenny Test - *****Test methodnavigateToKidsElectronicsPage has started
+2020-08-25 17:00:04,065 [main] INFO JCPenny Test - Click "Kids Tech" element
+2020-08-25 17:00:06,435 [main] INFO JCPenny Test - Navigated to "Kids Electronics" page
+2020-08-25 17:00:06,435 [main] INFO JCPenny Test - Validating KidsElectronics page title
+2020-08-25 17:00:06,542 [main] INFO JCPenny Test - *****Test method navigateToKidsElectronicsPage has executed successfully
+2020-08-25 17:00:06,544 [main] INFO JCPenny Test - *****Test methodSelectAProductAndVerify has started
+2020-08-25 17:00:06,545 [main] INFO JCPenny Test - click on product "Frozen 2 Earbuds with Mic and Pouch"
+2020-08-25 17:00:09,574 [main] INFO JCPenny Test - Navigated to "Product Details" page
+2020-08-25 17:00:09,575 [main] INFO JCPenny Test - Validating title of selected product
+2020-08-25 17:00:11,297 [main] INFO JCPenny Test - *****Test method SelectAProductAndVerify has executed successfully
+2020-08-25 17:00:11,300 [main] INFO JCPenny Test - *****Test methodverifyProductInCart has started
+2020-08-25 17:00:11,300 [main] INFO JCPenny Test - Add product to cart and checkOut
+2020-08-25 17:00:25,064 [main] INFO JCPenny Test - Navigated to "Cart page"
+2020-08-25 17:00:25,065 [main] INFO JCPenny Test - Validating product in cart
+2020-08-25 17:00:26,798 [main] INFO JCPenny Test - *****Test method verifyProductInCart has executed successfully
+2020-08-25 17:00:26,800 [main] INFO JCPenny Test - *****Test methodverifyCartAfterRemovingProduct has started
+2020-08-25 17:00:26,801 [main] INFO JCPenny Test - click "remove" WebElement in CartPage
+2020-08-25 17:00:32,160 [main] INFO JCPenny Test - Validating empty cart text, after the product is being removed 
+2020-08-25 17:00:32,165 [main] INFO JCPenny Test - *****Test method verifyCartAfterRemovingProduct has Failed. Find failed screenshot under "FailedScreenshot" folder
+2020-08-25 17:00:32,166 [main] INFO JCPenny Test - *****Failure reason:Assertion::java.lang.AssertionError: expected [Start with an Empty Cart] but found [Start with an Empty Cart, Finish in Style]
+2020-08-25 17:00:33,574 [main] INFO JCPenny Test - Browser closed
