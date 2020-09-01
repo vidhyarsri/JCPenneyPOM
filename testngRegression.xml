@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="JCPennyTest">
+<suite name="JCPenneyTest">
 
 <listeners>
- <listener class-name = "com.jcpenny.util.Listener"/>
+ <listener class-name = "com.jcpenney.util.Listener"/>
  </listeners>
  
-	<test name="JCPennyRegressionTest">
+	<test name="JCPenneyRegressionTest">
 		<classes>
-			<class name="com.jcpenny.testcases.JcPennyTest" />
+			<class name="com.jcpenney.testcases.JcPenneyTest" />
 			
 		</classes>
 	</test> <!-- Test -->

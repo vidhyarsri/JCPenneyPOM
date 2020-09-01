@@ -2,56 +2,56 @@
 <testng-results skipped="0" failed="1" ignored="0" total="10" passed="9">
   <reporter-output>
   </reporter-output>
-  <suite name="JCPennyTest" duration-ms="45075" started-at="2020-08-25T16:59:48 CDT" finished-at="2020-08-25T17:00:33 CDT">
+  <suite name="JCPenneyTest" duration-ms="51872" started-at="2020-09-01T18:02:07 CDT" finished-at="2020-09-01T18:02:59 CDT">
     <groups>
     </groups>
-    <test name="JCPennyRegressionTest" duration-ms="45075" started-at="2020-08-25T16:59:48 CDT" finished-at="2020-08-25T17:00:33 CDT">
-      <class name="com.jcpenny.testcases.JcPennyTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="beforeSuite" is-config="true" duration-ms="227" started-at="2020-08-25T16:59:48 CDT" finished-at="2020-08-25T16:59:48 CDT">
+    <test name="JCPenneyRegressionTest" duration-ms="51872" started-at="2020-09-01T18:02:07 CDT" finished-at="2020-09-01T18:02:59 CDT">
+      <class name="com.jcpenney.testcases.JcPenneyTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="beforeSuite" is-config="true" duration-ms="248" started-at="2020-09-01T18:02:07 CDT" finished-at="2020-09-01T18:02:07 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="setup" is-config="true" duration-ms="9173" started-at="2020-08-25T16:59:48 CDT" finished-at="2020-08-25T16:59:57 CDT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="setup" is-config="true" duration-ms="10632" started-at="2020-09-01T18:02:07 CDT" finished-at="2020-09-01T18:02:18 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyHomePageTitle" duration-ms="2786" started-at="2020-08-25T16:59:57 CDT" finished-at="2020-08-25T17:00:00 CDT">
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyHomePageTitle" duration-ms="1463" started-at="2020-09-01T18:02:18 CDT" finished-at="2020-09-01T18:02:19 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitle -->
-        <test-method status="PASS" signature="verifyLogo()[pri:2, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyLogo" duration-ms="227" started-at="2020-08-25T17:00:00 CDT" finished-at="2020-08-25T17:00:00 CDT">
+        <test-method status="PASS" signature="verifyLogo()[pri:2, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyLogo" duration-ms="1122" started-at="2020-09-01T18:02:19 CDT" finished-at="2020-09-01T18:02:20 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogo -->
-        <test-method status="PASS" signature="verifyLogoColor()[pri:3, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyLogoColor" duration-ms="110" started-at="2020-08-25T17:00:00 CDT" finished-at="2020-08-25T17:00:01 CDT">
+        <test-method status="PASS" signature="verifyLogoColor()[pri:3, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyLogoColor" duration-ms="299" started-at="2020-09-01T18:02:20 CDT" finished-at="2020-09-01T18:02:21 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoColor -->
-        <test-method status="PASS" signature="verifyLogoFontSize()[pri:4, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyLogoFontSize" duration-ms="31" started-at="2020-08-25T17:00:01 CDT" finished-at="2020-08-25T17:00:01 CDT">
+        <test-method status="PASS" signature="verifyLogoFontSize()[pri:4, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyLogoFontSize" duration-ms="113" started-at="2020-09-01T18:02:21 CDT" finished-at="2020-09-01T18:02:21 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoFontSize -->
-        <test-method status="PASS" signature="verifyLogoFontFamily()[pri:5, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyLogoFontFamily" duration-ms="32" started-at="2020-08-25T17:00:01 CDT" finished-at="2020-08-25T17:00:01 CDT">
+        <test-method status="PASS" signature="verifyLogoFontFamily()[pri:5, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyLogoFontFamily" duration-ms="44" started-at="2020-09-01T18:02:21 CDT" finished-at="2020-09-01T18:02:21 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoFontFamily -->
-        <test-method status="PASS" signature="navigateToHomeElectronicsPage()[pri:6, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="navigateToHomeElectronicsPage" duration-ms="2951" started-at="2020-08-25T17:00:01 CDT" finished-at="2020-08-25T17:00:04 CDT">
+        <test-method status="PASS" signature="navigateToHomeElectronicsPage()[pri:6, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="navigateToHomeElectronicsPage" duration-ms="5101" started-at="2020-09-01T18:02:21 CDT" finished-at="2020-09-01T18:02:26 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToHomeElectronicsPage -->
-        <test-method status="PASS" signature="navigateToKidsElectronicsPage()[pri:7, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="navigateToKidsElectronicsPage" duration-ms="2476" started-at="2020-08-25T17:00:04 CDT" finished-at="2020-08-25T17:00:06 CDT">
+        <test-method status="PASS" signature="navigateToKidsElectronicsPage()[pri:7, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="navigateToKidsElectronicsPage" duration-ms="4454" started-at="2020-09-01T18:02:26 CDT" finished-at="2020-09-01T18:02:30 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToKidsElectronicsPage -->
-        <test-method status="PASS" signature="SelectAProductAndVerify()[pri:8, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="SelectAProductAndVerify" duration-ms="4751" started-at="2020-08-25T17:00:06 CDT" finished-at="2020-08-25T17:00:11 CDT">
+        <test-method status="PASS" signature="SelectAProductAndVerify()[pri:8, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="SelectAProductAndVerify" duration-ms="5056" started-at="2020-09-01T18:02:30 CDT" finished-at="2020-09-01T18:02:35 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SelectAProductAndVerify -->
-        <test-method status="PASS" signature="verifyProductInCart()[pri:9, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyProductInCart" duration-ms="15497" started-at="2020-08-25T17:00:11 CDT" finished-at="2020-08-25T17:00:26 CDT">
+        <test-method status="PASS" signature="verifyProductInCart()[pri:9, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyProductInCart" duration-ms="16879" started-at="2020-09-01T18:02:35 CDT" finished-at="2020-09-01T18:02:52 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductInCart -->
-        <test-method status="FAIL" signature="verifyCartAfterRemovingProduct()[pri:10, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="verifyCartAfterRemovingProduct" duration-ms="5362" started-at="2020-08-25T17:00:26 CDT" finished-at="2020-08-25T17:00:32 CDT">
+        <test-method status="FAIL" signature="verifyCartAfterRemovingProduct()[pri:10, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="verifyCartAfterRemovingProduct" duration-ms="4475" started-at="2020-09-01T18:02:52 CDT" finished-at="2020-09-01T18:02:57 CDT">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Start with an Empty Cart] but found [Start with an Empty Cart, Finish in Style]]]>
@@ -63,7 +63,7 @@ at org.testng.Assert.assertEqualsImpl(Assert.java:136)
 at org.testng.Assert.assertEquals(Assert.java:118)
 at org.testng.Assert.assertEquals(Assert.java:575)
 at org.testng.Assert.assertEquals(Assert.java:585)
-at com.jcpenny.testcases.JcPennyTest.verifyCartAfterRemovingProduct(JcPennyTest.java:145)
+at com.jcpenney.testcases.JcPenneyTest.verifyCartAfterRemovingProduct(JcPenneyTest.java:146)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -98,15 +98,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCartAfterRemovingProduct -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="teardown" is-config="true" duration-ms="910" started-at="2020-08-25T17:00:32 CDT" finished-at="2020-08-25T17:00:33 CDT">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="teardown" is-config="true" duration-ms="983" started-at="2020-09-01T18:02:58 CDT" finished-at="2020-09-01T18:02:59 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.jcpenny.testcases.JcPennyTest@1f7030a6]" name="afterSuite" is-config="true" duration-ms="580" started-at="2020-08-25T17:00:33 CDT" finished-at="2020-08-25T17:00:34 CDT">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.jcpenney.testcases.JcPenneyTest@1f7030a6]" name="afterSuite" is-config="true" duration-ms="565" started-at="2020-09-01T18:02:59 CDT" finished-at="2020-09-01T18:02:59 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- com.jcpenny.testcases.JcPennyTest -->
-    </test> <!-- JCPennyRegressionTest -->
-  </suite> <!-- JCPennyTest -->
+      </class> <!-- com.jcpenney.testcases.JcPenneyTest -->
+    </test> <!-- JCPenneyRegressionTest -->
+  </suite> <!-- JCPenneyTest -->
 </testng-results>

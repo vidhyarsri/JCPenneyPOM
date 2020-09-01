@@ -3,12 +3,12 @@
 <suite name="JCPennyTest">
 
 <listeners>
- <listener class-name = "com.jcpenny.util.Listener"/>
+ <listener class-name = "com.jcpenney.util.Listener"/>
  </listeners>
  
-	<test name="JCPennySmokeTest">
+	<test name="JCPenneySmokeTest">
 	<classes>
-	  <class name="com.jcpenny.testcases.JcPennyTest" >
+	  <class name="com.jcpenney.testcases.JcPenneyTest" >
 		<methods>
 			<include name="verifyHomePageTitle"/>
 			<include name="verifyLogo"/>

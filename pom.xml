@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>Selenium</groupId>
-	<artifactId>JCPennyPOM</artifactId>
+	<artifactId>JCPenneyPOM</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>JCPennyPOM</name>
+	<name>JCPenneyPOM</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
