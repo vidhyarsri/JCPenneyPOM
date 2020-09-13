@@ -10,11 +10,17 @@ Implemented ITestListener interface to generate HTML Extent report with results 
 
 ### The automation routine performs the following actions.
 Verifies the color, font, and size of the JCPenney logo.
+
 Uses the Actions class to mouse hover and selects "Home Electronics" option from "Home & Lifestyle" dropdown menu.
+
 Selects "Kids Tech" web element.
+
 Selects a product from the Kids Electronics.
+
 Adds the product to the cart and proceeds to checkout.
+
 Verifies the product is added to the cart.
+
 Deletes the product and verifies if the product has been removed from the cart.
 
 ### TestNG Test Report
