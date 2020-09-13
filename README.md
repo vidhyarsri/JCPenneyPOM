@@ -1,7 +1,7 @@
 # JCPenneyPOM
 JCPenny-POM(PageFactory)+Selenium (Java)+TestNG+Log4j+ExtentReport
 
-Automation of Web Application using Selenium WebDriver with Java, Maven and TestNG
+Automation of Web Application using POM(PageFactory)+Selenium WebDriver(Java)+TestNG+Log4j+ExtentReport
 
 This is a sample project to demonstrate testing of JCPenney web application. Wrote test cases in excel, and based on
 it demonstrated the following concepts. Data Driven Framework with Page Object Model, Page Factory and how it
