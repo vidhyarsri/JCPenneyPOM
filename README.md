@@ -1,5 +1,5 @@
 # JCPenneyPOM
-JCPenny-POM(PageFactory)+Selenium (Java)+TestNG+Log4j+ExtentReport
+JCPenney-POM(PageFactory)+Selenium (Java)+TestNG+Log4j+ExtentReport
 
 Automation of Web Application using POM(PageFactory)+Selenium WebDriver(Java)+TestNG+Log4j+ExtentReport
 
