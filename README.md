@@ -18,3 +18,4 @@ Verifies the product is added to the cart.
 Deletes the product and verifies if the product has been removed from the cart.
 
 ### TestNG Test Report
+![TestNG-TestReport](https://user-images.githubusercontent.com/61662759/93027396-1efc2600-f5d2-11ea-8c1a-89d971cf6e04.PNG)
