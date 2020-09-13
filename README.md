@@ -8,7 +8,7 @@ Data Driven Framework with Page Object Model, Page Factory and how it is used wi
 Implemented Log4j (in "log" folder) to trace logs and to track information. 
 Implemented ITestListener interface to generate HTML Extent report with results such as pass/fail/skip. Took screenshot of failed test case and attached it to the report. 
 
-### The automation routine performs the following actions.
+### The Automation routine performs the following actions:
 Verifies the color, font, and size of the JCPenney logo.
 
 Uses the Actions class to mouse hover and selects "Home Electronics" option from "Home & Lifestyle" dropdown menu.
